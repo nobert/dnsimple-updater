@@ -1,0 +1,5 @@
+token: abc123
+account_id: 123
+zone: example.com
+hostname: test.example.com
+record_id: 123
